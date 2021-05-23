@@ -1,44 +1,55 @@
-# fit-club
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Fit Club: Social Fitness App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A Social Fitness Application to Connect Fitness Enthusiasts
-Due to COVID-19, the fitness community had to adapt to new ways to work out at home. 
-Now with the growing virtual options, trainers need a means to find people who need help with their fitness goals 
-and allow users to find people in their area that are hosting activities or classes to stay active.
+## Description and Purpose
+A social fitness application that connects fitness enthusiasts and fitness professionals. The application allows users to share fitness goals and related information with other users and with trainers.
 
-# Techniques
-  - React.JS
-  - SASS
-  - Socket.io
-  - GraphQL
-  - Recharts
-  - React DatePicker
-  - Mongoose
- 
-# Links
-  - https://fit-clob.herokuapp.com/
+## Table of Contents
+  - [Description and Purpose](#description-and-purpose)
+  - [Application Screenshot](#application-screenshot)
+  - [Deployed Application](#deployed-application)
+  - [Built With](#built-with)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
 
-# Git Repository
-  - https://github.com/maxhealy01/fit-club
-  
-# License
-  This project is licensed under the MIT license.
+## Application Screenshot
+![Fit Club screenshot](./fit-club.jpg "Application Screenshot")
 
-# Contributors
-  ### Deriso, Casey 
-  - https://github.com/CaseyDeriso
-  
-  ### Sung, Yunik 
-  - https://github.com/yuniksung
-  
-  ### Healy, Maxwell 
-  - https://github.com/maxhealy01
-  
-  ### Shelby, Michael 
-  - https://github.com/MikeGShelby
-  
-  ### Burgo, Aldrin 
-  - https://github.com/aldrinburgos18
-  
-  ### Fadare, Jennifer
-  - https://github.com/JenniferFadare
+## Deployed Application
+https://fit-clob.herokuapp.com/
+
+## Built With
+* MongoDB
+* Mongoose
+* Express.js
+* React
+* GraphQL
+* Recharts
+* React DatePicker
+* Node.js
+* Javascript
+* HTML
+* CSS
+* SASS
+
+## License
+MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contributing
+* [Casey Deriso](https://github.com/CaseyDeriso)
+* [Yunik Sung](https://github.com/yuniksung)
+* [Mike Shelby](https://github.com/MikeGShelby)
+* [Maxwell Healy](https://github.com/maxhealy01)
+* [Aldrin Burgo](https://github.com/aldrinburgos18)
+* [Jennifer Fadare](https://github.com/JenniferFadare)
+
+## Questions
+Github Username: mikegshelby
+
+Github Profile: https://github.com/mikegshelby
+
+Email: mikegshelby@gmail.com
+
+Please email me with any questions about this project!
